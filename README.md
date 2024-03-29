@@ -9,32 +9,32 @@ There is an Admin interface for creating new courses, lessons, units, challenges
 ---
 <br /><br />
 <p align="center">
-  <img src="UI_001.png" width="450" title="hover text">
-  <img src="UI_002.png" width="450" title="hover text"> 
+  <img src="UI_001.png" width="350" title="hover text">
+  <img src="UI_002.png" width="350" title="hover text"> 
 </p>
 <p align="center">
-  <img src="UI_003.png" width="450" title="hover text">
-  <img src="UI_004.png" width="450" title="hover text"> 
+  <img src="UI_003.png" width="350" title="hover text">
+  <img src="UI_004.png" width="350" title="hover text"> 
 </p>
 <p align="center">
-  <img src="UI_005.png" width="450" title="hover text">
-  <img src="UI_006.png" width="450" title="hover text"> 
+  <img src="UI_005.png" width="350" title="hover text">
+  <img src="UI_006.png" width="350" title="hover text"> 
 </p>
 <p align="center">
-  <img src="UI_007.png" width="450" title="hover text">
-  <img src="UI_008.png" width="450" title="hover text"> 
+  <img src="UI_007.png" width="350" title="hover text">
+  <img src="UI_008.png" width="350" title="hover text"> 
 </p>
 <p align="center">
-  <img src="UI_009.png" width="450" title="hover text">
-  <img src="UI_010.png" width="450" title="hover text"> 
+  <img src="UI_009.png" width="350" title="hover text">
+  <img src="UI_010.png" width="350" title="hover text"> 
 </p>
 <p align="center">
-  <img src="UI_011.png" width="450" title="hover text">
-  <img src="UI_012.png" width="450" title="hover text"> 
+  <img src="UI_011.png" width="350" title="hover text">
+  <img src="UI_012.png" width="350" title="hover text"> 
 </p>
 <p align="center">
-  <img src="UI_013.png" width="450" title="hover text">
-  <img src="UI_014.png" width="450" title="hover text"> 
+  <img src="UI_013.png" width="350" title="hover text">
+  <img src="UI_014.png" width="350" title="hover text"> 
 </p>
 ---
 <br /><br /><br />
